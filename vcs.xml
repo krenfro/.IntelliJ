@@ -95,7 +95,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:real-comp/www.real-comp.com.git" />
+          <option name="url" value="git@bitbucket.org:real-comp/realcomp-data.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
