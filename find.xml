@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'realcomp-data-hadoop'" />
-    <option name="defaultScopeName" value="Project 'realcomp-data-hadoop'" />
+    <option name="customScope" value="File '[dl-common] - .../src/main/java/com/realcomp/dl/DLTransaction.java'" />
+    <option name="defaultScopeName" value="File '[dl-common] - .../src/main/java/com/realcomp/dl/DLTransaction.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'realcomp-data-hadoop'" />
+    <option name="SEARCH_SCOPE" value="File '[dl-common] - .../src/main/java/com/realcomp/dl/DLTransaction.java'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
