@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.real-comp.com/realcomp-data/schema/file-schema/1.2" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/e05da8b4_file-schema.xsd" />
+    <resource url="http://xmlns.jcp.org/jsf/core" location="$MAVEN_REPOSITORY$/com/sun/faces/jsf-impl/2.2.14/jsf-impl-2.2.14.jar!/com/sun/faces/web-facesconfig_2_2.xsd" />
+    <resource url="http://xmlns.jcp.org/jsf/facelets" location="$MAVEN_REPOSITORY$/com/sun/faces/jsf-impl/2.2.14/jsf-impl-2.2.14.jar!/com/sun/faces/web-facelettaglibrary_2_2.xsd" />
   </component>
 </application>
