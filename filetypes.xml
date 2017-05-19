@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DatabaseIT" type="CLASS" />
       <mapping pattern="Dockerfile" type="Docker file" />
+      <mapping ext="zprj" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="RawAddressFileCreator.java" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
