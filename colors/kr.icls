@@ -1,9 +1,9 @@
 <scheme name="kr" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <attributes>
     <option name="XML_TAG">
       <value />
