@@ -4,13 +4,14 @@
       <mapping pattern="DatabaseIT" type="CLASS" />
       <mapping pattern="Dockerfile" type="Docker file" />
       <mapping ext="zprj" type="Native" />
-      <mapping pattern="RawAddressFileCreator.java" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="RawAddressFileCreator.java" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="codes" type="PLAIN_TEXT" />
       <mapping ext="transform" type="PLAIN_TEXT" />
+      <mapping ext="inc" type="PLAIN_TEXT" />
       <mapping ext="schema" type="XML" />
     </extensionMap>
   </component>
